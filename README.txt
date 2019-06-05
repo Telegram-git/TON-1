@@ -8,7 +8,7 @@ The software is likely to compile and work properly on most Linux systems. It sh
 
 BASIC COMPILATION AND INSTALLATION INSTRUCTIONS
 
-1) Download and unpack the newest version of this archive, available at
+1) Download and unpack the newest version of this archive, available at:
 
 https://test.ton.org/download
 
